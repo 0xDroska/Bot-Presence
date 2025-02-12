@@ -1,7 +1,7 @@
 # Bot de Présence Discord
 
 Un bot Discord pour gérer les présences de manière efficace.
-https://cdn.discordapp.com/attachments/1339130482557980694/1339130634030809118/2025-02-11_20-51-44.mkv?ex=67ad9a16&is=67ac4896&hm=de6a377ce3b790c0f7bab59687fcb30a25b8267fd1f8c5dd0c715df17f6c3aac&
+
 ## Prérequis
 
 - [Node.js](https://nodejs.org/) (version 16.9.0 ou supérieure)
@@ -11,8 +11,8 @@ https://cdn.discordapp.com/attachments/1339130482557980694/1339130634030809118/2
 
 1. Clonez le dépôt :
 ```bash
-git clone [url-du-repo]
-cd presence
+git clone [https://github.com/0xDroska/Bot-Presence]
+cd Bot-Presence
 ```
 
 2. Installez les dépendances :
@@ -20,7 +20,7 @@ cd presence
 npm install
 ```
 
-3. Configurez les variables d'environnement :S
+3. Configurez les variables d'environnement :
    - Remplissez les variables suivantes dans le fichier `.env` :
      - `TOKEN` : Le token de votre bot Discord
      - `CLIENTID` : L'ID de votre application Discord
@@ -75,6 +75,13 @@ node index.js
 4. Utilisez `/presence stats` pour voir les statistiques
 5. Utilisez `/presence remind` pour envoyer un rappel aux membres n'ayant pas répondu
 6. Utilisez `/presence delete` pour supprimer une session si nécessaire
+
+## Démonstration
+
+<video width="100%" controls>
+  <source src="media/video.mkv" type="video/x-matroska">
+  Votre navigateur ne supporte pas la lecture de cette vidéo.
+</video>
 
 ## Structure du Projet
 
