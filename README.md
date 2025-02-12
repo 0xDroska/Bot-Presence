@@ -4,7 +4,6 @@
   <source src="media/video.mkv" type="video/x-matroska">
   Votre navigateur ne supporte pas la lecture de cette vidéo.
 </video>
-
 ## Prérequis
 
 - [Node.js](https://nodejs.org/) (version 16.9.0 ou supérieure)
