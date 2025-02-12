@@ -1,6 +1,3 @@
-## Démonstration
-
-[![Vidéo](Clique)]([https://cdn.discordapp.com/attachments/1339130482557980694/1339130634030809118/2025-02-11_20-51-44.mkv?ex=67ad9a16&is=67ac4896&hm=de6a377ce3b790c0f7bab59687fcb30a25b8267fd1f8c5dd0c715df17f6c3aac&]
 ## Prérequis
 
 - [Node.js](https://nodejs.org/) (version 16.9.0 ou supérieure)
