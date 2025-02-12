@@ -1,6 +1,9 @@
-# Bot de Présence Discord
+## Démonstration
 
-Un bot Discord pour gérer les présences de manière efficace.
+<video width="100%" controls>
+  <source src="media/video.mkv" type="video/x-matroska">
+  Votre navigateur ne supporte pas la lecture de cette vidéo.
+</video>
 
 ## Prérequis
 
@@ -75,13 +78,6 @@ node index.js
 4. Utilisez `/presence stats` pour voir les statistiques
 5. Utilisez `/presence remind` pour envoyer un rappel aux membres n'ayant pas répondu
 6. Utilisez `/presence delete` pour supprimer une session si nécessaire
-
-## Démonstration
-
-<video width="100%" controls>
-  <source src="media/video.mkv" type="video/x-matroska">
-  Votre navigateur ne supporte pas la lecture de cette vidéo.
-</video>
 
 ## Structure du Projet
 
