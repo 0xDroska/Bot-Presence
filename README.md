@@ -7,7 +7,7 @@
 
 1. Clonez le dépôt :
 ```bash
-git clone [https://github.com/0xDroska/Bot-Presence]
+git clone https://github.com/0xDroska/Bot-Presence
 cd Bot-Presence
 ```
 
